@@ -2,7 +2,9 @@
 
 Presentation engine written in Atari Basic for Atari 8 bit computer family.
 
-[![Pres](http://img.youtube.com/vi/w0kJfqxL4Bo/0.jpg)](https://www.youtube.com/watch?v=w0kJfqxL4Bo)
+Check this demo (click to go to youtube):
+
+[![Pres](https://github.com/mrroman/pres/blob/images/images/pres.gif)](https://www.youtube.com/watch?v=w0kJfqxL4Bo)
 
 ## Start
 
