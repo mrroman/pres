@@ -26,4 +26,8 @@
 1230 DATA LP,Elwro 800 Junior
 1240 DATA LP,Pentagon
 1250 DATA LP,SAM Coupe
-1260 DATA Q
+1260 DATA S,Links
+1270 DATA L,http://www.worldofspectrum.org/
+1280 DATA LP,http://speccy.pl/
+1290 DATA L,http://github.com/mrroman/pres/
+1300 DATA Q
