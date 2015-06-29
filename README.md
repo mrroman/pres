@@ -2,6 +2,8 @@
 
 Presentation engine written in Atari Basic for Atari 8 bit computer family.
 
+[![Pres](http://img.youtube.com/vi/w0kJfqxL4Bo/0.jpg)](https://www.youtube.com/watch?v=w0kJfqxL4Bo)
+
 ## Start
 
 Required: Atari machine or Atari emulator (atari800, altirra, etc.).
